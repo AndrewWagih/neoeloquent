@@ -1,5 +1,5 @@
 {
-    "name": "vinelab/neoeloquent",
+    "name": "andrewwagih/neoeloquent",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "neo4j",
